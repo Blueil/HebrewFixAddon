@@ -5,6 +5,5 @@
   "description": "This addon fixes the hebrew.",
   "version": 0.1,
   "author": "Blue.il",
-  "category": 2,
-  "icon": "https://raw.githubusercontent.com/egold555/Minecraft-1.8.8-PVP-Client-Series/master/Episode%20%234/Example%20Client%20Logo.png"
+  "category": 2
 }
