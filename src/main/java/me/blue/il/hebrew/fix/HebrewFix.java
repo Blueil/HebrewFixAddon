@@ -25,6 +25,7 @@ public class HebrewFix extends LabyModAddon {
 	@Override
 	public void onEnable() {
 		utils = new Utils();
+		getApi().getEventManager().register(new ChatModifyEvent(utils));
 	}
 
 	
